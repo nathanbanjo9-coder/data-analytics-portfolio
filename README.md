@@ -17,16 +17,22 @@ Business insights
 Reporting and automation
 Projects
 Below is a growing list of my analytics projects. Each repository includes documentation, datasets (if allowed), dashboards, and explanations of the insights found.
+
 Power BI Projects
 (Add your first Power BI project here)
+
 Tableau Projects
 (Add your first Tableau project here)
+
 Excel Projects
 (Add your first Excel analysis here)
+
 SQL Projects
 (Add your first SQL project here)
+
 What I’m Working On
 I am continuously expanding this portfolio with new dashboards, SQL models, and real-world case studies that reflect my learning and professional development.
+
 Contact
 Email: nathanbanjo9@gmail.com
 GitHub: github.com/nathanbanjo9-coder
