@@ -28,5 +28,5 @@ SQL Projects
 What I’m Working On
 I am continuously expanding this portfolio with new dashboards, SQL models, and real-world case studies that reflect my learning and professional development.
 Contact
-Email: tickzmanagement@gmail.com
+Email: nathanbanjo9@gmail.com
 GitHub: github.com/nathanbanjo9-coder
