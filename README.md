@@ -1,5 +1,5 @@
 # data-analytics-portfolio
-curated portfolio demonstrating my skills in data cleaning, analysis, and visualization using Power BI, Tableau, Excel, and SQL. Includes business insights, dashboards, and end-to-end analytics projects.
+A curated portfolio demonstrating my skills in data cleaning, analysis, and visualization using Power BI, Tableau, Excel, and SQL. Includes business insights, dashboards, and end-to-end analytics projects.
 Nathan Banjo — Data Analytics Portfolio
 
 I am a data analyst focused on turning raw data into clear, actionable insights. My projects demonstrate analytical thinking, problem-solving, and data storytelling across multiple tools and business domains.
