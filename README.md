@@ -1,10 +1,13 @@
 UrbanEdge Retail Analytics Case Study
+
 Executive Summary
+
 This project presents a full end-to-end data analytics case study for UrbanEdge Retail, a mid-sized UK omnichannel retailer operating 10 physical stores across major cities including London, Manchester, Birmingham, Leeds, and Liverpool.
 Using SQL, Excel, Power BI, and Tableau, this project analyses real-world retail challenges related to customer retention, product performance, regional sales variation, and revenue optimisation.
 The goal is to demonstrate the complete analytics lifecycle—from data cleaning and transformation to dashboard development and business recommendations—mirroring the workflow of a junior data analyst in a modern retail organisation.
 
 Business Problem
+
 UrbanEdge Retail has been experiencing uneven performance across stores, declining customer loyalty, and inconsistent profitability across product categories.
 Leadership has identified three key issues requiring investigation:
 Customer retention is falling, with loyalty scores declining and fewer repeat purchases.
@@ -13,6 +16,7 @@ Product category profitability is unclear, limiting effective pricing, stocking,
 UrbanEdge has requested a comprehensive analytical review to understand these issues and provide actionable insights to support strategic decision-making.
 
 Methodology
+
 The project follows a structured analytical approach:
 1. Data Preparation & Cleaning (SQL)
 Inspected data quality across all tables
@@ -37,6 +41,7 @@ Identified performance gaps
 Built evidence-based business recommendations
 
 Skills
+
 This project demonstrates the following technical and analytical skills:
 Data Skills
 SQL data cleaning
@@ -56,6 +61,7 @@ KPI development
 Insight-driven storytelling
 
 Results & Business Recommendations
+
 This section will be completed after the full analysis is finished.
 It will include:
 Key insights from SQL
