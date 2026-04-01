@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digital Clock</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            background-color: #f0f0f0;
+        }
+        .clock {
+            font-size: 48px;
+            margin-bottom: 20px;
+        }
+        .timezone {
+            font-size: 24px;
+        }
+    </style>
+</head>
+<body>
+    <div class="clock" id="clock"></div>
+    <div class="timezone" id="timezone"></div>
+
+    <script>
+        function updateClock() {
+            const now = new Date();
+            const utc = now.getUTCDate();
+            const options = {timeZone: Intl.DateTimeFormat().resolvedOptions().timeZone};
+            const timeString = now.toLocaleTimeString('en-US', options);
+            document.getElementById('clock').textContent = timeString;
+            document.getElementById('timezone').textContent = \`Time Zone: \\${options.timeZone}\`;
+        }
+
+        setInterval(updateClock, 1000);
+        updateClock();
+    </script>
+</body>
+</html>
